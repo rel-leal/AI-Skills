@@ -6,16 +6,6 @@ Uma coleção de skills com boas práticas, fluxos de trabalho e diretrizes de D
 
 Este repositório reúne guias práticos que documentam padrões, processos e recomendações para trabalhar com Figma de forma consistente. Cada skill é independente e pode ser consultada isoladamente ou combinada com outras, dependendo da tarefa.
 
-📂 Estrutura
-figma-skills/
-├── README.md
-├── Figma/
-│   └── SKILL.md
-├── Claude/
-│   └── SKILL.md
-├── ChatGPT/
-│   └── SKILL.md
-
 🧩 **O que é uma "skill"**
 
 Cada skill é um arquivo que descreve:
